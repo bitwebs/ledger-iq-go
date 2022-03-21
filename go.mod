@@ -1,4 +1,4 @@
-module github.com/terra-money/ledger-terra-go
+module github.com/bitwebs/ledger-iq-go
 
 go 1.12
 

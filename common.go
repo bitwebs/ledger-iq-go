@@ -14,7 +14,7 @@
 *  limitations under the License.
 ********************************************************************************/
 
-package ledger_terra_go
+package ledger_iq_go
 
 import (
 	"encoding/binary"
